@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319514751745",
+    "project_id": "fcm-push-notifications-3ae24",
+    "storage_bucket": "fcm-push-notifications-3ae24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319514751745:android:423a5e40ad19b73ffa6100",
+        "android_client_info": {
+          "package_name": "com.example.pushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl_axhjgKp_T5zjFmZpwrs-BkK_qNCvCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
